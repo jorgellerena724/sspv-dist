@@ -1,0 +1,38 @@
+{
+    "name": "SSPV Ventas",
+    "short_name": "SSPV Ventas",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0aab77",
+    "theme_color": "#0aab77",
+    "description": "Ventas del día: recibe el inventario y envía las ventas al dueño.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "id": ".",
+    "scope": ".",
+    "lang": "es"
+}
